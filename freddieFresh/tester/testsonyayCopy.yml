@@ -1,0 +1,26 @@
+info:
+  name: testsonyayCopy
+  type: http
+  seq: 4
+
+http:
+  method: POST
+  url: http://localhost:5239/api/Responses
+  headers:
+    - name: Authorization
+      value: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjMwMDIiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ0dXJpc3RhQGJlbm55LmVzIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6ImJlbm55IiwiSGFuZGxlIjoiYmVubnl6dWVsYSIsImV4cCI6MTc3MjE0MzA2NywiaXNzIjoiQnVsbGV0aW5Cb2FyZEFQSSIsImF1ZCI6IkJ1bGxldGluQm9hcmRVc2VyIn0.n7tcx_H9bpSY_rl2gHnllTZU_InRrH027Rje4QBaz-M
+    - name: Content-Type
+      value: application/json
+  body:
+    type: json
+    data: |-
+      {
+        "text": "OMG benny, you so funny",
+        "postId": 1
+      }
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
