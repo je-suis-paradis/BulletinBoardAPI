@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulletinBoardAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e844ffb06aa3a453479dcd4b7269308e2040987")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12de90c97c651926bbcf2318071a8a3a09dd1ff2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulletinBoardAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulletinBoardAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

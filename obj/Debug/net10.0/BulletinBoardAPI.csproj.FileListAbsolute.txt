@@ -1,177 +1,167 @@
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.csproj.AssemblyReference.cache
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rpswa.dswa.cache.json
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.GeneratedMSBuildEditorConfig.editorconfig
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.AssemblyInfoInputs.cache
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.AssemblyInfo.cs
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.csproj.CoreCompileInputs.cache
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.MvcApplicationPartsAssemblyInfo.cs
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.MvcApplicationPartsAssemblyInfo.cache
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.dll
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/refint/BulletinBoardAPI.dll
-/Users/p-nut./Library/CloudStorage/OneDrive-Personal/transportConnection/ithsWebDev/inlämningar/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.pdb
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/appsettings.Development.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/appsettings.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.staticwebassets.endpoints.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.deps.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.runtimeconfig.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.pdb
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Azure.Core.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Azure.Identity.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BCrypt.Net-Next.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Humanizer.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Build.Framework.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Identity.Client.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.OpenApi.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Mono.TextTemplating.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Newtonsoft.Json.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.ClientModel.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.CodeDom.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.AttributedModel.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.Convention.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.Hosting.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.Runtime.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.TypedParts.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Memory.Data.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.csproj.AssemblyReference.cache
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rpswa.dswa.cache.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.GeneratedMSBuildEditorConfig.editorconfig
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.AssemblyInfoInputs.cache
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.AssemblyInfo.cs
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.csproj.CoreCompileInputs.cache
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.MvcApplicationPartsAssemblyInfo.cs
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.MvcApplicationPartsAssemblyInfo.cache
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rjimswa.dswa.cache.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/scopedcss/bundle/BulletinBoardAPI.styles.css
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.build.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.build.json.cache
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.development.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.build.endpoints.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/swae.build.ex.cache
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/Bulletin.53BEC768.Up2Date
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/refint/BulletinBoardAPI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.pdb
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.genruntimeconfig.cache
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/ref/BulletinBoardAPI.dll
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.staticwebassets.runtime.json
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/compressed/eunvrpduty-{0}-4zvmro3r4i-4zvmro3r4i.gz
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/compressed/vhtmik7c7e-{0}-lvdylrnyuq-lvdylrnyuq.gz
-/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/compressed/kbajyh69t3-{0}-ny94xa6aed-ny94xa6aed.gz
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.csproj.AssemblyReference.cache
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.AssemblyInfoInputs.cache
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.AssemblyInfo.cs
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.csproj.CoreCompileInputs.cache
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.sourcelink.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/appsettings.Development.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/appsettings.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.staticwebassets.runtime.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.staticwebassets.endpoints.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.deps.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.runtimeconfig.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BulletinBoardAPI.pdb
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Azure.Core.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Azure.Identity.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/BCrypt.Net-Next.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Humanizer.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.ClientModel.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.CodeDom.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Memory.Data.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/cs/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pl/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/tr/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/scopedcss/bundle/BulletinBoardAPI.styles.css
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/compressed/eunvrpduty-{0}-alxv17egy1-alxv17egy1.gz
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/compressed/kbajyh69t3-{0}-3fqoif1b3w-3fqoif1b3w.gz
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/compressed/vhtmik7c7e-{0}-lvdylrnyuq-lvdylrnyuq.gz
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.build.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.development.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/swae.build.ex.cache
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/Bulletin.53BEC768.Up2Date
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/refint/BulletinBoardAPI.dll
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.pdb
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/BulletinBoardAPI.genruntimeconfig.cache
+/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/Debug/net10.0/ref/BulletinBoardAPI.dll

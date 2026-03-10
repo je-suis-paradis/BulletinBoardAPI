@@ -3585,19 +3585,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/p-nut./.nuget/packages/": {}
+    "/Users/pontus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/BulletinBoardAPI.csproj",
+      "projectUniqueName": "/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/BulletinBoardAPI.csproj",
       "projectName": "BulletinBoardAPI",
-      "projectPath": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/BulletinBoardAPI.csproj",
-      "packagesPath": "/Users/p-nut./.nuget/packages/",
-      "outputPath": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/assignmentTwo/BulletinBoardAPI/obj/",
+      "projectPath": "/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/BulletinBoardAPI.csproj",
+      "packagesPath": "/Users/pontus/.nuget/packages/",
+      "outputPath": "/Users/pontus/Archive/assignmentTwo/BulletinBoardAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/p-nut./.nuget/NuGet/NuGet.Config"
+        "/Users/pontus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -3669,7 +3669,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

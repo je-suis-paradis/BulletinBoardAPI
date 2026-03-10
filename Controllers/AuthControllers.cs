@@ -23,24 +23,21 @@ public class AuthController : ControllerBase
 
     // POST: api/auth/register
     [HttpPost("register")]
-    public async Task<ActionResult<AuthResponseDTO>> Register(RegisterDTO dto)
+    public async Task<ActionResult<AuthResponseDto>> Register(RegisterDto dto)
     {
-        // Check if email already exists
         if (await _context.Users.AnyAsync(u => u.Email == dto.Email))
         {
             return BadRequest("Email already registered");
         }
 
-        // Check if handle already exists
         if (await _context.Users.AnyAsync(u => u.Handle == dto.Handle))
         {
             return BadRequest("Handle already taken");
         }
 
-        // Create new user
         var user = new User
         {
-            Name = dto.Name,
+            Username = dto.Username,
             Email = dto.Email,
             Handle = dto.Handle,
             PasswordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password),
@@ -50,23 +47,20 @@ public class AuthController : ControllerBase
         _context.Users.Add(user);
         await _context.SaveChangesAsync();
 
-        // Generate token
         var token = _jwtService.GenerateToken(user);
 
-        return Ok(new AuthResponseDTO
+        return Ok(new AuthResponseDto
         {
             Token = token,
             Email = user.Email,
             Handle = user.Handle,
-            Name = user.Name
+            Username = user.Username
         });
     }
 
-    // POST: api/auth/login
     [HttpPost("login")]
-    public async Task<ActionResult<AuthResponseDTO>> Login(LoginDTO dto)
+    public async Task<ActionResult<AuthResponseDto>> Login(LoginDto dto)
     {
-        // Find user by email
         var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == dto.Email);
 
         if (user == null)
@@ -74,21 +68,19 @@ public class AuthController : ControllerBase
             return Unauthorized("Invalid email or password");
         }
 
-        // Verify password
         if (!BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash))
         {
             return Unauthorized("Invalid email or password");
         }
 
-        // Generate token
         var token = _jwtService.GenerateToken(user);
 
-        return Ok(new AuthResponseDTO
+        return Ok(new AuthResponseDto
         {
             Token = token,
             Email = user.Email,
             Handle = user.Handle,
-            Name = user.Name
+            Username = user.Username
         });
     }
 }

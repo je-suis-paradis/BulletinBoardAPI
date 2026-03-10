@@ -58,30 +58,35 @@ public class ResponsesController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<PostResponse>> CreateResponse(PostResponse response)
     {
-        var userIdClaim = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier);
-        if (userIdClaim == null)
-        {
-            return Unauthorized();
-        }
-
-        var userId = int.Parse(userIdClaim.Value);
-
-        var post = await _context.Posts.FindAsync(response.PostId);
-        if (post == null)
-        {
-            return BadRequest("Post not found");
-        }
-
-        response.AuthorId = userId;
-        response.Author = null!;
-        response.Post = null!;
-        response.CreatedAt = DateTime.UtcNow;
-
-        _context.PostResponses.Add(response);
-        await _context.SaveChangesAsync();
-
-        return CreatedAtAction(nameof(GetResponse), new { id = response.Id }, response);
+    var userIdClaim = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier);
+    if (userIdClaim == null)
+    {
+        return Unauthorized();
     }
+    
+    var userId = int.Parse(userIdClaim.Value);
+    
+    var post = await _context.Posts.FindAsync(response.PostId);
+    if (post == null)
+    {
+        return BadRequest("Post not found");
+    }
+    
+    if (post.AuthorId == userId)
+    {
+        return BadRequest("You cannot comment on your own post");
+    }
+    
+    response.AuthorId = userId;
+    response.Author = null!;
+    response.Post = null!;
+    response.CreatedAt = DateTime.UtcNow;
+    
+    _context.PostResponses.Add(response);
+    await _context.SaveChangesAsync();
+    
+    return CreatedAtAction(nameof(GetResponse), new { id = response.Id }, response);
+}
 
     [Authorize]
     [HttpPut("{id}")]
