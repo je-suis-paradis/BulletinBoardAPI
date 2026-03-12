@@ -35,8 +35,6 @@ ASP.NET Core Web API med JWT authentication. Skapa användare, poster, och komme
 
 ## Authentication
 
-All protected endpoints require a Bearer token.
-
 1. `POST /api/auth/register` → create account
 2. `POST /api/auth/login` → get token
 3. I Swagger: click **Authorize** → enter `Bearer <token>`
@@ -48,15 +46,3 @@ All protected endpoints require a Bearer token.
 - Användare kan bara editera och radera sitt eget
 - Interface + Repository pattern for data access
 - Swagger UI with JWT authorization support
-
-## Arkitektur
-
-BulletinBoardAPI/
-├── Controllers/       # HTTP endpoints
-├── Services/          # JWT token generation
-├── Interfaces/        # Repository contracts
-├── Repositories/      # Data access implementations
-├── Models/            # Entity classes
-├── DTOs/              # Request/response shapes
-├── Data/              # AppDbContext
-└── Migrations/        # EF Core migrations
